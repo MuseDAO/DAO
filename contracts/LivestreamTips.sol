@@ -1,5 +1,8 @@
 pragma solidity ^0.5.0;
 
+
+// Tips given during Livestream to be deposited into Aave LendingPool on behalf of Content Creator
+
 // Import interface for ERC20 standard
 import "openzeppelin-solidity/contracts/token/ERC20/IERC20.sol";
 
