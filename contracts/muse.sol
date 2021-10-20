@@ -10,6 +10,7 @@ import 'hardlydifficult-eth/contracts/protocols/Uniswap/IUniswapOracle.sol';
 import '@openzeppelin/contracts-ethereum-package/contracts/math/SafeMath.sol';
 import './interfaces/IMintableERC20.sol';
 
+// Muse Version of Unlock Contract - manages DAO
 /// @dev Must list the direct base contracts in the order from “most base-like” to “most derived”.
 /// https://solidity.readthedocs.io/en/latest/contracts.html#multiple-inheritance-and-linearization
 contract MuseLock is
